@@ -12,6 +12,10 @@
     clear: both;
 }
 
+img{
+    height: 80px;
+}
+
 body{
     width: 70%;
     margin: 0 auto;
@@ -33,14 +37,14 @@ body{
 .profiles{
     background-color: black;
     color: white;
-    font : 0,8rem "Fira Sans", sans-serif;
     float: left;
     margin: 10px;
     width: 31%;
     height: 80px;
-    border: 2px solid black;
 }
 
-.profiles{
-   
+div > h1 {
+    font: small-caps bold 15px sans-serif;
+    display:inline-block;
+    
 }
