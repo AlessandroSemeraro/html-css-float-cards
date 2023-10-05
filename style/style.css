@@ -12,14 +12,6 @@
     clear: both;
 }
 
-.float-left{
-    float: left;
-}
-
-.float-right{
-    float: right;
-}
-
 body{
     width: 70%;
     margin: 0 auto;
@@ -30,4 +22,25 @@ body{
     color: rgb(255, 0, 136);
     text-align: center;
     padding-top: 20px;
+}
+
+.article-font{
+    padding: 40px 0px 70px 0px;
+    font-size: 10px;
+    font: 1.2rem "Fira Sans", sans-serif;
+}
+
+.profiles{
+    background-color: black;
+    color: white;
+    font : 0,8rem "Fira Sans", sans-serif;
+    float: left;
+    margin: 10px;
+    width: 31%;
+    height: 80px;
+    border: 2px solid black;
+}
+
+.profiles{
+   
 }
