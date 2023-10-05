@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
 }
 
 .clearfix::after {
@@ -17,4 +18,16 @@
 
 .float-right{
     float: right;
+}
+
+body{
+    width: 70%;
+    margin: 0 auto;
+}  
+
+.title{
+    font-size: 2rem;
+    color: rgb(255, 0, 136);
+    text-align: center;
+    padding-top: 20px;
 }
